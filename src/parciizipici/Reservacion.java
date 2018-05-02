@@ -11,12 +11,14 @@ package parciizipici;
  */
 public class Reservacion {
     
-    int idHuesped;
-    String idPaquete;
-    int Fecha_ingreso;
-    int Fecha_salida;
-    int numeroTarjetaCredito;
-    float monto;
+    public int idHuesped;
+    public String idPaquete;
+    public int Fecha_ingreso;
+    public int Fecha_salida;
+    public int numeroTarjetaCredito;
+    public float monto;
+    
+    public String HAOLA;
     
     
     
