@@ -12,4 +12,8 @@ public class Temporada {
     
     String id, fechaInicio, FechaFin;
     
+    
+    
+    
+    
 }
